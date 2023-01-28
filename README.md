@@ -1,0 +1,3 @@
+# 一个简易的基于Flask框架的web服务器
+
+可用于搭建mkdocs的web服务器
